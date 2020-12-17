@@ -1,7 +1,7 @@
 name: "My Website"
 output_dir: "docs"  # docs directory of master branch
 navbar:
-  title: "xxx's website"
+  title: "YangRuiyi's website"
   type: inverse
   left:
     - text: "Home"
@@ -22,6 +22,6 @@ navbar:
           href: Page4.3.html   
 output:
   html_document:
-    theme: cerulean
-    highlight: pygments
+    theme: spacelab
+    highlight: breezedark
     
